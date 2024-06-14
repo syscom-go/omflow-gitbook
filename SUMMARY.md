@@ -24,6 +24,7 @@
 * [Apache Serverの2.4.XXへの更新](2/2-11-1.md)
 * [PythonとDjangoのアップデート](2/2-12-1.md)
 * [技術サポート](2/2-13-1.md)
+* [よくあるトラブル](id-2/2-14-1.md)
 
 ## クイックスタート(Quick Start) <a href="#id-3" id="id-3"></a>
 
