@@ -27,7 +27,6 @@ Of course, as the name implies, Collector also includes accepting external calls
 
 ## Software licensing
 
-* Open source version (GNU General Public License v3.0), you can publish and modify the source code, under the licensing terms of GPL V3.
 * The free commercial version (Free License) is a more functional version downloaded from the syscomgo website. This version is not GPL licensed and can be used free of charge by individuals, academic institutions and evaluation purposes.
 * Commercial Edition Enterprise (Enterprise License) is a more functional version downloaded from the syscomgo website for commercial purposes or enterprises, organizations, governments or educational institutions.
    
