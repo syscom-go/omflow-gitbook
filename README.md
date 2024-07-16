@@ -20,9 +20,6 @@ Collector是我們一個很重要的概念，OMFLOW 使用 Python語言開發，
 
 ## 軟體下載
 
-### 開源版本可至GitHub下載
-
-[https://github.com/syscomgo/omflow](https://github.com/syscomgo/omflow)
 
 ### 商業版 免費(Free License) 可至syscomgo下載
 
