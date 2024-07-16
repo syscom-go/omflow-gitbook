@@ -19,10 +19,6 @@ OMFLOWサーバーでは、独自のAPPを設計するか、クラウドから�
 
 ## ソフトウェアダウンロード
 
-### オープンソースバージョンはGitHubからダウンロードできます。
-
-[https://github.com/syscomgo/omflow](https://github.com/syscomgo/omflow)
-
 ### 商用版（無料/エンタープライズ）はSYSCOMGOの公式サイトからダウンロードできます。
 
 [https://syscomgo.com/products/omflow/](https://syscomgo.com/products/omflow/)
