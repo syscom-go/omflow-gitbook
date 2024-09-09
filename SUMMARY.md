@@ -23,8 +23,9 @@
 * [Set up PyPI server](id-2/2-10-1.md)
 * [Update Apache Server to 2.4.XX](id-2/2-11-1.md)
 * [Update Python and Django](id-2/2-12-1.md)
+* [International Time Zone](id-2/2-15-1.md)
 * [Common ERROR](id-2/2-13-1.md)
-* [Notes on DBMaker ](id-2/2-14-1.md)
+* [Notes on DBMaker](id-2/2-14-1.md)
 
 ## Quick Start <a href="#id-3" id="id-3"></a>
 
@@ -59,6 +60,7 @@
 * [Department](id-5/5-07-1.md)
 * [Leave record](id-5/5-08-1.md)
 * [Work log](id-5/5-09-1.md)
+* [Customized personnel system](id-5/5-10-1.md)
 
 ## Other Tools <a href="#id-6" id="id-6"></a>
 
