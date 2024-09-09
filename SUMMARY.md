@@ -23,6 +23,7 @@
 * [架設PyPI伺服器](id-2/2-10-1.md)
 * [更新Apache Server至2.4.XX](id-2/2-11-1.md)
 * [更新Python及Django](id-2/2-12-1.md)
+* [國際時區](id-2/guo-ji-shi-qu.md)
 * [常見錯誤](id-2/2-13-1.md)
 * [DBMaker注意事項](id-2/2-14-1.md)
 
