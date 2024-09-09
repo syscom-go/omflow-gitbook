@@ -60,7 +60,7 @@
 * [Department](id-5/5-07-1.md)
 * [Leave record](id-5/5-08-1.md)
 * [Work log](id-5/5-09-1.md)
-* [Customized personnel system](id-5/5-10-1.md)
+* [Custom HR](id-5/5-10-1.md)
 
 ## Other Tools <a href="#id-6" id="id-6"></a>
 
