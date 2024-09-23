@@ -13,6 +13,7 @@
 
 * [Install on Windows](id-2/2-01-1.md)
 * [Install on Linux](id-2/2-02-1.md)
+* [License installation](id-2/2-16-1.md)
 * [Backup and restore](id-2/2-03-1.md)
 * [Version Update](id-2/2-04-1.md)
 * [Install Booster](id-2/2-05-1.md)
