@@ -1,8 +1,10 @@
 # Table of contents
 
+* [前書き](README.md)
+
 ## 紹介 <a href="#id-1" id="id-1"></a>
 
-* [OMFLOW概要](README.md)
+* [OMFLOW概要](id-1/1-01-1.md)
 * [OMFLOW エンジン](id-1/1-02-1.md)
 * [ハードウェアとソフトウェアの要件](id-1/1-03-1.md)
 * [バージョン履歴](id-1/1-04-1.md)
