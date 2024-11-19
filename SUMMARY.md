@@ -1,8 +1,9 @@
 # Table of contents
 
+* [前言](README.md)
+
 ## 介紹 <a href="#id-1" id="id-1"></a>
 
-* [前言](README.md)
 * [OMFLOW概觀](id-1/1-01-1.md)
 * [OMFLOW 流程引擎](id-1/1-02-1.md)
 * [軟體及硬體需求](id-1/1-03-1.md)
