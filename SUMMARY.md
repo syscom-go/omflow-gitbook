@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Preface](README.md)
+
 ## Introduction <a href="#id-1" id="id-1"></a>
 
-* [OMFLOW Overview](README.md)
+* [OMFLOW Overview](id-1/1-01-1.md)
 * [OMFLOW process engine](id-1/1-02-1.md)
 * [Software and hardware requirements](id-1/1-03-1.md)
 * [Release Notes](id-1/1-04-1.md)
