@@ -9,8 +9,6 @@
 
 ## 軟體安裝 <a href="#id-2" id="id-2"></a>
 
-* [安裝在 Linux](id-2/2-02-1.md)
 * [版本更新](id-2/2-04-1.md)
-* [更新Python及Django](id-2/2-12-1.md)
 * [常見錯誤](id-2/2-13-1.md)
 * [DBMaker注意事項](id-2/2-14-1.md)
