@@ -1,3 +1,3 @@
 # Preface
 
-> The documentation website is no longer available. For operation manuals, please contact the product support website or the manufacturer.
+> This website provides version-related information only. If you require an operation manual, please contact the product support site or the manufacturer.
